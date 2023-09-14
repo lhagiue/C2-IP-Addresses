@@ -141,3 +141,17 @@ MDR-Ticket
      - #119387_103.234.72.160 Dup#
 * 13/09/2023
      - #119449_95.25.90.50
+       
+* 14/09/2023 ==> Re-evaluating Corporate SSL VPNs After The Cisco VPN Hack
+95[.]155[.]91[.]55 IP corresponding to the intelligence IP rules provided by CINS score for blocking
+94[.]103[.]124[.]35 IP corresponding to the intelligence IP rules provided by CINS score for blocking
+91[.]220[.]163[.]4 IP corresponding to the intelligence IP rules provided by CINS score for blocking
+85[.]159[.]229[.]19 Malware IP
+89[.]69[.]144[.]94 IP corresponding to 3COREsec team's IP blocking signature and classified as Bruteforce (Fail2ban)
+89[.]190[.]156[.]164 IP corresponding to 3COREsec team's IP blocking signature and classified as Bruteforce (Fail2ban), DDoS (apache_report)
+79[.]110[.]62[.]122 IP corresponding to 3COREsec team's IP blocking signature and classified as Bruteforce (Fail2ban), Spam
+66[.]175[.]209[.]108 IP corresponding to 3COREsec team's IP blocking signature
+95[.]115[.]56[.]104 IP used for Tor router communication
+94[.]21[.]166[.]176 IP used for Tor router communication
+93[.]194[.]112[.]81 IP used for Tor router communication
+92[.]116[.]209[.]31 IP used for Tor router communication

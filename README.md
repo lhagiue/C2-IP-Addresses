@@ -1,4 +1,4 @@
-IP Address Client DTAC Call Center ( No Block )
+Public IP Address Client DTAC Call Center SNK ( No Block )
 
 - 202.91.23.5 - 202.91.23.11
     

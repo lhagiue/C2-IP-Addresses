@@ -1,3 +1,8 @@
+IP Address Client DTAC Call Center ( No Block )
+
+- 202.91.23.5 - 202.91.23.11
+- 
+----------------------------------------------
 ** C2-IP-Addresses list **
 
 Friday, July 7, 2023 05:13 PM

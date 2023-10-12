@@ -1,6 +1,10 @@
 Public IP Address Client DTAC Call Center SNK ( No Block )
 
 - 202.91.23.5 - 202.91.23.11
+
+Terminal Server True Internet for Remote Support Customer
+
+- 119.46.254.1 
     
 ----------------------------------------------
 ** C2-IP-Addresses list **

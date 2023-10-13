@@ -1,4 +1,7 @@
-Public IP Address Client DTAC Call Center SNK ( No Block )
+
+Public IP Address  ( No Block )
+
+Client DTAC Call Center SNK
 
 - 202.91.23.5 - 202.91.23.11
 
@@ -245,4 +248,6 @@ MDR-Ticket
      - #126147_180.128.20.42
 * 13/10/2023
      - #127762_45.77.118.169
+* 14/10/2023
+     - #124739_31.223.184.168
 

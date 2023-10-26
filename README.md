@@ -7,7 +7,11 @@ Client DTAC Call Center SNK
 
 Terminal Server True Internet for Remote Support Customer
 
-- 119.46.254.1 
+- 119.46.254.1
+
+True Kong GW
+
+- 119.46.58.215
     
 ----------------------------------------------
 ** C2-IP-Addresses list **

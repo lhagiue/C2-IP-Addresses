@@ -9,7 +9,7 @@ Terminal Server True Internet for Remote Support Customer
 
 - 119.46.254.1
 
-True Kong GW
+True Kong API GW
 
 - 119.46.58.215
     

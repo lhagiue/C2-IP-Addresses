@@ -12,7 +12,7 @@ Terminal Server True Internet for Remote Support Customer
 Client-User True 
 
 - 119.46.58.215
-- 203.144.130.177-180
+- 203.144.130.176-180
     
 ----------------------------------------------
 ** C2-IP-Addresses list **

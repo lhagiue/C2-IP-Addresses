@@ -9,9 +9,10 @@ Terminal Server True Internet for Remote Support Customer
 
 - 119.46.254.1
 
-True Kong API GW
+Client-User True 
 
 - 119.46.58.215
+- 203.144.130.177-180
     
 ----------------------------------------------
 ** C2-IP-Addresses list **

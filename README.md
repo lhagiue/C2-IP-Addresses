@@ -282,3 +282,12 @@ MDR-Ticket
 * 30/10/2023
      - #e-mail from K.Nattawat 207.148.120.105 Dup#128909,128918,128924,128937,128941,128950,128959,129004,129005,129007,129010,129012,129026,129027,129081,129082,129084,129086,129089,129090,129111,129112,129114,129115,129116,1291117,129232,129225,129217,129215,129187,129186,129182,129146,129145,129144,129132,128952
      - #129008_172.68.4.135 Dup#128952
+* 31/10/2023
+Malicious URL
+     - https://185[.]39.18.170:2351
+     - https://5[.]188.87.58::2351
+     - https://87.106.16[.]115
+     - http://5[.]188.87.58:2351/kzbrotjb
+     - https://5[.]188.87.58::2351/msibtbgvbyy
+     - https://ChloeTurner956-my.sharepoint[.]com/personal/miro_chloeturner956_onmicrosoft_com/Documents/Microsoft%20Teams%20Chat%20Files/Significant?company%20changes%20September.zip
+ 
